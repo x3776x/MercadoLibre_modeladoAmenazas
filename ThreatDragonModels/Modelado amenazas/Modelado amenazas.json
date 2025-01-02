@@ -1,0 +1,36 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "Modelado amenazas",
+    "owner": "Abraham Vázquez Quinto, Benjamín del Ángel García Hernández, Rodolfo Fernández Rodríguez",
+    "description": "Mercado libre es una plataforma de compra-venta en línea que permite la adquisición de productos, en ella los clientes pueden registrarse, agregar productos a su carrito y realizar compras de manera segura.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Abraham"
+      },
+      {
+        "name": "Benjamin"
+      },
+      {
+        "name": "Rodolfo"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Modelo de datos para ML",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.3.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Guillerno Vera",
+    "threatTop": 0
+  }
+}
