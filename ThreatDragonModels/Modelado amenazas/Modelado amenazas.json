@@ -1085,10 +1085,20 @@
             }
           }
         ],
-        "description": "DFD Login"
+        "description": ""
+      },
+      {
+        "id": 1,
+        "title": "DFD Login",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.3.0",
+        "cells": [],
+        "description": "Para el inicio de sesión "
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "Guillerno Vera",
     "threatTop": 11
   }
