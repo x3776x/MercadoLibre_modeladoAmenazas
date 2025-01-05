@@ -2264,9 +2264,19 @@
           }
         ],
         "description": "Para el inicio de sesión "
+      },
+      {
+        "id": 2,
+        "title": "DFD Registrarse",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.3.0",
+        "cells": [],
+        "description": "Para el registro de un usuario a la plataforma"
       }
     ],
-    "diagramTop": 2,
+    "diagramTop": 3,
     "reviewer": "Guillerno Vera",
     "threatTop": 21
   }
